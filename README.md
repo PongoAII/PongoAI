@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
     ____                          _    ____
    / __ \____  ____  ____ _____  / \  /  _/
   / /_/ / __ \/ __ \/ __ `/ __ \/ _ \ / /
  / ____/ /_/ / / / / /_/ / /_/ / ___// /
 /_/    \____/_/ /_/\__, /\____/\/  /___/
                   /____/
-```
+</pre>
 
 **A LangGraph multi-agent orchestrator for managing on-chain assets on Robinhood Chain.**
 
